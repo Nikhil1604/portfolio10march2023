@@ -1,0 +1,12 @@
+.HeaderLeft{
+    margin: 0;
+    border: 0;
+    padding-top: 10px;
+    padding-left: 30px;
+    color: aliceblue;
+    justify-content: left;
+}
+.HeaderLeft >h1{
+    margin: 0;
+    border: 0;
+}

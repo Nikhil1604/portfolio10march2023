@@ -1,0 +1,29 @@
+.AboutMeRight > p {
+    font-weight: 300;
+    text-align: left;
+}
+.AboutMeButton{
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+    padding-top: 10px;
+}
+.HireMe{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.ViewCv{
+    width: 100px;
+    height: 40px;
+    border-radius: 6px;
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 16px;
+
+}

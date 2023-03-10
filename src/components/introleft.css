@@ -1,0 +1,28 @@
+.IntroLeft{
+    color: black;
+    text-align: left;
+}
+.IntroLeft > h1{
+    font-size: 70px;
+    border: 0;
+    margin: 0;
+    font-weight: bold;
+
+}
+.IntroLeft > h3 {
+    color: gray;
+    font-weight: 300;
+    border: 0;
+    margin: 0;
+    padding-bottom: 20px;
+}
+.IntroLeft > button {
+    
+    width: 150px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 20px;
+    color:aliceblue;
+    background-color: black;
+    border-radius: 6px;
+}

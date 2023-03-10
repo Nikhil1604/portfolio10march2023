@@ -1,0 +1,9 @@
+.HeaderRight{
+    display: flex;
+    flex-direction: row;
+    color: whitesmoke;
+    padding-right: 50px;
+}
+.HeaderRight > h3 {
+    padding-left: 30px;
+}

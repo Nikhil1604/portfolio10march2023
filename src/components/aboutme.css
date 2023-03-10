@@ -1,0 +1,9 @@
+.AboutMe{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding: 280px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background-color: lightgray;
+}

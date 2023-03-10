@@ -1,0 +1,11 @@
+.Intro {
+    margin: 0;
+    border: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: lightcyan;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
