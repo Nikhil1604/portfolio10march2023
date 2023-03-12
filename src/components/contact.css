@@ -1,0 +1,16 @@
+.Contact{
+    margin: 0;
+    border: 0;
+    color: white;
+    background-color: black;
+
+}
+.Contact >h2 {
+    margin: 0;
+    border: 0;
+}
+.ContactSub{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

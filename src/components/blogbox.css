@@ -1,0 +1,13 @@
+.BlogBox{
+    color: white;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.BlogBoxOne{
+    border: 2px solid black;
+    margin: 80px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: black;
+}
